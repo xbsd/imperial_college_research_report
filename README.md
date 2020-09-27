@@ -1,3 +1,3 @@
-# Imperial College Business School
-Individual Research Report LaTeX Example for MS in Business Analytics (as of August 2020)
+# Individual Research Report: Imperial College Business School
+LaTeX Template for MS in Business Analytics (as of August 2020)
 
